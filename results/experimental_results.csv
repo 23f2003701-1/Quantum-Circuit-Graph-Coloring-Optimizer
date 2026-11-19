@@ -1,0 +1,16 @@
+circuit_name,n_qubits,orig_depth,dsatur_depth,bt_depth,dsatur_colors,bt_colors,bt_optimal,bt_timed_out,dsatur_equiv,bt_equiv,depth_reduction_pct,bt_fidelity,bt_time_ms,bt_valid,dsatur_fidelity,dsatur_time_ms,dsatur_valid,graph_edges,graph_vertices,noise_error_rate,noise_type,orig_fidelity,orig_gates
+Linear Chain,3,5,5,5,5,5,True,False,True,True,0.0,,0.2445,True,,0.0448,True,14,7,,,,7
+Full Parallel,3,2,2,2,2,2,True,False,True,True,0.0,,0.0533,True,,0.0299,True,3,4,,,,4
+Mixed,3,5,5,5,5,5,True,False,True,True,0.0,,0.3328,True,,0.0491,True,14,7,,,,7
+Dense,3,7,6,6,6,6,True,False,True,True,14.3,,2.135,True,,0.2792,True,27,9,,,,9
+Linear Chain,4,6,5,5,5,5,True,False,True,True,16.7,,0.798,True,,0.0827,True,23,10,,,,10
+Full Parallel,4,2,2,2,2,2,True,False,True,True,0.0,,0.0444,True,,0.028,True,4,5,,,,5
+Mixed,4,6,5,5,5,5,True,False,True,True,16.7,,0.4316,True,,0.0429,True,23,10,,,,10
+Dense,4,11,7,7,7,7,True,False,True,True,36.4,,18.0387,True,,0.0768,True,78,16,,,,16
+Linear Chain,5,7,5,5,5,5,True,False,True,True,28.6,,0.3463,True,,0.055,True,32,13,,,,13
+Full Parallel,5,2,2,2,2,2,True,False,True,True,0.0,,0.0402,True,,0.0259,True,5,6,,,,6
+Mixed,5,7,5,5,5,5,True,False,True,True,28.6,,0.3626,True,,0.0525,True,32,13,,,,13
+Dense,5,15,12,12,12,12,False,True,True,True,20.0,,20000.8644,True,,0.1431,True,170,25,,,,25
+Random3q_noise_depolarizing_p0.01,3,6,5,5,5,5,True,False,True,True,0.0,0.9121,0.4859,True,0.9307,0.0734,True,14,7,0.01,depolarizing,0.916,7
+Random3q_noise_depolarizing_p0.02,3,6,5,5,5,5,True,False,True,True,0.0,0.833,0.4859,True,0.8408,0.0734,True,14,7,0.02,depolarizing,0.8506,7
+Random3q_noise_amplitude_damping_p0.01,3,6,5,5,5,5,True,False,True,True,0.0,1.0,0.4859,True,1.0,0.0734,True,14,7,0.01,amplitude_damping,1.0,7

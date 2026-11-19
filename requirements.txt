@@ -1,0 +1,7 @@
+qiskit==2.4.1
+qiskit-aer==0.17.2
+networkx>=3.0
+matplotlib>=3.8
+numpy>=1.26
+streamlit>=1.36
+pandas>=2.0

@@ -1,0 +1,50 @@
+# --- Python Bytecode & Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# --- Testing & Coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.ropeproject
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Streamlit Secrets & Logs ---
+.streamlit/secrets.toml
+*.log
+
+# --- Scratch & Temporary Scripts ---
+scratch_*.py
+scratch_*.md
+temp_*.py
+temp_*.md
+*.tmp
+
+# --- Internal Prep & Process Markdown Files (Not for Final Submission) ---
+PROJECT_AUDIT.md
+SCREENSHOT_GUIDE.md
+DEMO_SCRIPT.md
+VIVA_PREP.md
