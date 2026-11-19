@@ -40,7 +40,6 @@ pip install qiskit==2.4.1 qiskit-aer==0.17.2 networkx matplotlib numpy streamlit
 ### Launch the dashboard
 
 ```bash
-cd "d:\VJTI sem stuffs\sem7\QC\project"
 streamlit run app.py
 ```
 
