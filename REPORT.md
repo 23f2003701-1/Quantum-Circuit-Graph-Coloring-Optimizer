@@ -1,7 +1,8 @@
 # Quantum Circuit Optimization Using Graph Coloring
 
+**Name:** Niharika Hariharan  
+**Reg. No:** 231071034 (LY CE)  
 **Course:** Quantum Computing (Semester 7)  
-**Institute:** Veermata Jijabai Technological Institute (VJTI), Mumbai  
 **Date:** November 2026  
 **Based on:** "Quantum Circuit Optimization by Graph Coloring" — Hochang Lee, Kyung Chul Jeong, Panjin Kim (2025)  
 **Paper DOI:** https://doi.org/10.22331/q-2026-02-06-1996 · arXiv:2501.14447
